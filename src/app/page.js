@@ -7,6 +7,10 @@ export default function Home() {
       <Link href="/contact">
         Página de contato
       </Link>
+      <br />
+      <Link href="/blog/posts">
+        Blog
+      </Link>
     </>
   );
 }
